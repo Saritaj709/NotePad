@@ -8,7 +8,6 @@ from tkinter.filedialog import *
 class NotePad:
 
     __root = Tk()
-    __root.geometry("100x100")
 
     # default window width and height
     __thisWidth = 300
